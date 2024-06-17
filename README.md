@@ -1,6 +1,6 @@
 # Terraform Provider for Git
 
-> ⚠️ Note: This archive is a copy of <https://github.com/innovationnorway/terraform-provider-git>, which no longer exists on GitHub.
+> ⚠️ Note: This repository is a copy of <https://github.com/innovationnorway/terraform-provider-git>, which no longer exists on GitHub.
 
 ## Requirements
 
