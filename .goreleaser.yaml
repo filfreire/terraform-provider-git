@@ -18,6 +18,8 @@ builds:
     ignore:
       - goos: windows
         goarch: arm64
+      - goos: darwin
+        goarch: arm64
 
 archives:
   - format: tar.gz
