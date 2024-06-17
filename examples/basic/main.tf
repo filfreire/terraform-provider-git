@@ -1,14 +1,14 @@
 terraform {
   required_providers {
     git = {
-      source  = "innovationnorway/git"
+      source  = "filfreire/git"
       version = ">= 0.1.3"
     }
   }
 }
 
 data "git_repository" "example" {
-  url = "https://github.com/innovationnorway/terraform-provider-git.git"
+  url = "https://github.com/filfreire/terraform-provider-git.git"
 }
 
 output "repository" {
