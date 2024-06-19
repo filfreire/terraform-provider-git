@@ -1,5 +1,7 @@
 # Git Provider
 
+> ⚠️ Note: This provider is a copy of <https://registry.terraform.io/providers/innovationnorway/git/latest> after <https://github.com/innovationnorway/terraform-provider-git> was deleted/disappeared, which causes `terraform init` to fail since the original code repository is not available.
+
 The Git provider is used to interact with [Git](https://git-scm.com/) repositories.
 
 ## Example Usage
